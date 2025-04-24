@@ -1,0 +1,14 @@
+header {
+    background-color: orange;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+header img {
+    height: 50px;
+    width: 100px;
+    margin-left: 10px;
+}
